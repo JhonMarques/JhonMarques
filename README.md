@@ -9,7 +9,7 @@
 <img align="center" alt="jhonatas-Whatsapp" height="40" width="40" src="https://i.pinimg.com/originals/7e/68/35/7e68352dbb78715ab8d44d647164cff8.png" style="max-width:100%;">
 </a>
 
-<a href="a href="mailto:jhonataskm@gmail.com" target="_blank">
+<a href="mailto:jhonataskm@gmail.com" target="_blank">
 <img align="center" alt="jhonatas-gmail" height="30" width="30" src="https://image.similarpng.com/very-thumbnail/2020/12/Most-popular-icon-Gmail-premium-vector-PNG.png" style="max-width:100%;">
 </a>
 </p>
