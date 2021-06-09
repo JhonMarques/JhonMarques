@@ -10,7 +10,7 @@
 </a>
 
 ## Meus conhecimentos
-
+<p>
 <a>
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"></img>
   <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;"></img>
@@ -29,7 +29,7 @@
     <img alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg" style="max-width:100%;">
   </img>
 </a>
-
+</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonMarques&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMarques&layout=compact)](https://github.com/JhonMarques/github-readme-stats)
 
