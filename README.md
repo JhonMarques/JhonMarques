@@ -14,7 +14,7 @@
 </a>
 </p>
 
-## Meus conhecimentos
+## Meus conhecimentos:
 <p>
 <a>
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"></img>
