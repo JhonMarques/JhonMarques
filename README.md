@@ -1,13 +1,18 @@
 ### Olá, Bem Vindo 👋
 ## Contate-me:
+<p>
 <a href="www.linkedin.com/in/jhonatas-katayama-marques">
 <img align="center" alt="jhonatas-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5518996801054">
 <img align="center" alt="jhonatas-Whatsapp" height="30" width="30" src="https://i.pinimg.com/originals/7e/68/35/7e68352dbb78715ab8d44d647164cff8.png" style="max-width:100%;">
+</a>
+
+<a href="jhonatas:jhonataskm@gmail.com?subject=Hello%20again">
 <img align="center" alt="jhonatas-gmail" height="30" width="30" src="https://image.similarpng.com/very-thumbnail/2020/12/Most-popular-icon-Gmail-premium-vector-PNG.png" style="max-width:100%;">
 </a>
+</p>
 
 ## Meus conhecimentos
 <p>
