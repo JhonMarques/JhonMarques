@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5518996801054">
-<img align="center" alt="jhonatas-Whatsapp" height="40" width="40" src="https://i.pinimg.com/originals/7e/68/35/7e68352dbb78715ab8d44d647164cff8.png" style="max-width:100%;">
+<img align="center" alt="jhonatas-Whatsapp" height="30" width="30" src="https://image.flaticon.com/icons/png/512/733/733585.png" style="max-width:100%;">
 </a>
 
 <a href="mailto:jhonataskm@gmail.com" target="_blank">
