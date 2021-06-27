@@ -2,7 +2,8 @@
 
 </p>
 
-<p align="center">
+<p align="center" >
+<br><br><br>	
 <a>
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"></img>
   <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;"></img>
@@ -28,12 +29,13 @@
   <img alt="Primefaces" height="40" width="70" src="https://img2.gratispng.com/20181122/uog/kisspng-primefaces-javaserver-faces-user-interface-compute-5bf762cd2533b3.0761968615429393411524.jpg" style="max-width:100%;">
   </img>
 </a>
+<br><br><br>
 
-
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonMarques&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMarques&layout=compact)](https://github.com/JhonMarques/github-readme-stats)
     
-<p align="center">
+
 	<a href="https://github.com/JhonMarques"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jhonatas-katayama-marques/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/jhonatas.katayama/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
