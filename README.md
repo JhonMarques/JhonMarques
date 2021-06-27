@@ -1,21 +1,8 @@
-### Olá, Bem Vindo 👋
-## Contate-me:
-<p>
-<a href="https://www.linkedin.com/in/jhonatas-katayama-marques/" target="_blank">
-<img align="center" alt="jhonatas-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
 
-<a href="https://api.whatsapp.com/send?phone=5518996801054">
-<img align="center" alt="jhonatas-Whatsapp" height="30" width="30" src="https://image.flaticon.com/icons/png/512/733/733585.png" style="max-width:100%;">
-</a>
-
-<a href="mailto:jhonataskm@gmail.com" target="_blank">
-<img align="center" alt="jhonatas-gmail" height="30" width="30" src="https://image.similarpng.com/very-thumbnail/2020/12/Most-popular-icon-Gmail-premium-vector-PNG.png" style="max-width:100%;">
-</a>
 </p>
 
-## Meus conhecimentos:
-<p>
+<p align="center">
 <a>
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"></img>
   <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;"></img>
@@ -42,9 +29,15 @@
   </img>
 </a>
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonMarques&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMarques&layout=compact)](https://github.com/JhonMarques/github-readme-stats)
-
+    
+<p align="center">
+	<a href="https://github.com/JhonMarques"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/jhonatas-katayama-marques/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/jhonatas.katayama/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
 </p>
 
 
