@@ -34,7 +34,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonMarques&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMarques&layout=compact)](https://github.com/JhonMarques/github-readme-stats)
     
-
+<p align = "center">
 	<a href="https://github.com/JhonMarques"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jhonatas-katayama-marques/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/jhonatas.katayama/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
