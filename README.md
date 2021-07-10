@@ -1,9 +1,22 @@
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
 
+**Hello guys! I live in Brazil, and I am a bachelor of computer science. I'm also an electronics technician and I love learning new things daily.**
+
+##
+- [💻](https://emojipedia.org/laptop/) **Systems Developer** 
+-  [👨🏽‍💻](https://emojipedia.org/man-technologist-medium-skin-tone/) **Software Developer Student**
+-  [🤖](https://emojipedia.org/robot/) **Electronics technician**
+-  [💖](https://emojipedia.org/sparkling-heart/) **Passionate about technology**
+
+##
 </p>
 
+
+
+<p align="center"> <a href="https://github.com/JhonMarques/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=JhonMarques&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMarques&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+	
 <p align="center" >
-<br><br><br>	
+<br><br>
 <a>
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"></img>
   <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;"></img>
@@ -30,9 +43,6 @@
   </img>
 </a>
 <br><br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonMarques&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonMarques&layout=compact)](https://github.com/JhonMarques/github-readme-stats)
     
 <p align = "center">
 	<a href="https://github.com/JhonMarques"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -40,6 +50,8 @@
 	<a href="https://www.instagram.com/jhonatas.katayama/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 </p>
+
+
 
 
 <!--
