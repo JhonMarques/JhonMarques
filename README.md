@@ -1,6 +1,6 @@
-<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫e! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
 
-**Hello guys! I live in Brazil, and I am a bachelor of computer science. I'm also an electronics technician and I love learning new things daily.**
+**Hello! I live in Brazil, and I am a bachelor of computer science. I'm also an electronics technician and I love learning new things daily.**
 
 ##
 - [💻](https://emojipedia.org/laptop/) **Systems Developer** 
