@@ -4,7 +4,7 @@
 
 ##
 - [💻](https://emojipedia.org/laptop/) **Bacharelado em Ciência da Computação** 
--  [👨🏽‍💻](https://emojipedia.org/man-technologist-medium-skin-tone/) **Atualmente estudando Java com Spring Boot, Angular, Testes Unitários e o que o tempo me permitir**
+-  [👨🏽‍💻](https://emojipedia.org/man-technologist-medium-skin-tone/) **Atualmente estudando Java com Spring Boot, Angular, Testes Unitários e o que o tempo me permitir 😄**
 -  [🤖](https://emojipedia.org/robot/) **Trabalho como Técnico em Eletrônica Industrial, porém estou em busca de oportunidades como desenvolvedor**
 ##
 </p>
