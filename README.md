@@ -1,13 +1,11 @@
-<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫e! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
+<h1 align="center">Olá, Bem Vindo! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
 
-**Hello! I live in Brazil, and I am a bachelor of computer science. I'm also an electronics technician and I love learning new things daily.**
+
 
 ##
-- [💻](https://emojipedia.org/laptop/) **Systems Developer** 
--  [👨🏽‍💻](https://emojipedia.org/man-technologist-medium-skin-tone/) **Software Developer Student**
--  [🤖](https://emojipedia.org/robot/) **Electronics technician**
--  [💖](https://emojipedia.org/sparkling-heart/) **Passionate about technology**
-
+- [💻](https://emojipedia.org/laptop/) **Bacharelado em Ciência da Computação** 
+-  [👨🏽‍💻](https://emojipedia.org/man-technologist-medium-skin-tone/) **Atualmente estudando Java com Spring Boot, Angular, Testes Unitários e o que o tempo me permitir**
+-  [🤖](https://emojipedia.org/robot/) **Trabalho como Técnico em Eletrônica Industrial, porém estou em busca de oportunidades como desenvolvedor**
 ##
 </p>
 
