@@ -5,7 +5,7 @@
 ##
 - [💻](https://emojipedia.org/laptop/) **Analista Programador JR**
 - [👨🏻‍🎓](https://emojipedia.org/man-student-light-skin-tone/) **Bacharelado em Ciência da Computação** 
-- [👨🏽‍💻](https://emojipedia.org/man-technologist-medium-skin-tone/) **Atualmente estudando Java com Spring Boot, Angular, Testes Unitários e o que o tempo me permitir 😄**
+- [👨🏽‍💻](https://emojipedia.org/man-technologist-medium-skin-tone/) **Atualmente estudo Java com Spring Boot, Angular, Testes Unitários e o que o tempo me permitir 😄**
 ##
 </p>
 
